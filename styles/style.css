@@ -176,7 +176,7 @@ button[type="submit"]:hover {
 .six .hat {
   position: absolute;
   right: 42.5%;
-  top: -90%;
+  top: 20%;
   width: 80px;
   rotate: 14deg;
 }
